@@ -1,0 +1,27 @@
+[package]
+name = "r2p2"
+version = "0.1.0"
+edition = "2021"
+authors = ["Danny Willems <be.danny.willems@gmail.com>"]
+description = "A lightweight decentralized networking library in Rust using only the standard library and low-level components."
+repository = "https://github.com/dannywillems/r2p2"
+license = "MIT"
+keywords = ["networking", "p2p", "decentralized", "rust"]
+categories = ["network-programming"]
+
+[dependencies]
+clap = { version = "*", features = ["derive"] }
+env_logger = { version = "*" }
+log = { version = "*" }
+
+[[bin]]
+name = "r2p2-peer"
+path = "bin/peer.rs"
+
+[[bin]]
+name = "r2p2-client"
+path = "bin/client.rs"
+
+[[bin]]
+name = "r2p2-server"
+path = "bin/server.rs"
