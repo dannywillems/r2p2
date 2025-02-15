@@ -116,3 +116,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 - [tezos-p2p](https://gitlab.com/tezos/tezos/-/blob/master/src/lib_p2p/)
 - [libp2p](https://libp2p.io/)
+- [ApnosNet](https://github.com/aptos-labs/aptos-core/tree/main/network)
