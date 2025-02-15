@@ -130,3 +130,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 - [Monero](https://github.com/monero-project/monero) splitted in:
   - [Monero/p2p](https://github.com/monero-project/monero/blob/master/src/p2p)
   - [Monero/net](https://github.com/monero-project/monero/blob/master/src/net)
+- [Fogo](https://www.fogo.io/whitepaper.pdf)
