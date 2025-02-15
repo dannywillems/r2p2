@@ -116,6 +116,10 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 - [tezos-p2p](https://gitlab.com/tezos/tezos/-/blob/master/src/lib_p2p/)
 - [libp2p](https://libp2p.io/)
+  - [Mina](https://minaprotocol.com/) with their [Caml
+    client](https://github.com/MinaProtocol/mina/) and [Rust client -
+    OpenMina](https://github.com/openmina/openmina) uses it.
+  - [Filecoin](https://filecoin.io/) uses it.
 - [ApnosNet](https://github.com/aptos-labs/aptos-core/tree/main/network)
 - [Solana](https://solana.com/) - seems to be splitted in different crates
   - [Gossip](https://github.com/solana-labs/solana/blob/master/gossip/)
