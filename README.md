@@ -117,3 +117,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 - [tezos-p2p](https://gitlab.com/tezos/tezos/-/blob/master/src/lib_p2p/)
 - [libp2p](https://libp2p.io/)
 - [ApnosNet](https://github.com/aptos-labs/aptos-core/tree/main/network)
+- [Solana](https://solana.com/) - seems to be splitted in different crates
+  - [Gossip](https://github.com/solana-labs/solana/blob/master/gossip/)
+  - [Agave](https://github.com/anza-xyz/agave) - it seems that in Jan 2025 it has been forked there.
+- [Nym/Sphinx](https://github.com/nymtech/sphinx/) - for packets
