@@ -121,3 +121,5 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
   - [Gossip](https://github.com/solana-labs/solana/blob/master/gossip/)
   - [Agave](https://github.com/anza-xyz/agave) - it seems that in Jan 2025 it has been forked there.
 - [Nym/Sphinx](https://github.com/nymtech/sphinx/) - for packets
+- [Sonic/Fantom](https://github.com/0xsoniclabs/sonic/tree/main/gossip)
+  - It seems that Fantom has been rebranded into Sonic.
