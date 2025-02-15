@@ -127,3 +127,6 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 - [Nym/Sphinx](https://github.com/nymtech/sphinx/) - for packets
 - [Sonic/Fantom](https://github.com/0xsoniclabs/sonic/tree/main/gossip)
   - It seems that Fantom has been rebranded into Sonic.
+- [Monero](https://github.com/monero-project/monero) splitted in:
+  - [Monero/p2p](https://github.com/monero-project/monero/blob/master/src/p2p)
+  - [Monero/net](https://github.com/monero-project/monero/blob/master/src/net)
