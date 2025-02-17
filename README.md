@@ -22,6 +22,7 @@ What must be implemented:
 - encryption
 - packets obfuscation to avoid censorship
 - bandwith monitoring and limiting
+- support IPv6
 
 Benchmarks should also be provided.
 
@@ -124,6 +125,10 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 - [Solana](https://solana.com/) - seems to be splitted in different crates
   - [Gossip](https://github.com/solana-labs/solana/blob/master/gossip/)
   - [Agave](https://github.com/anza-xyz/agave) - it seems that in Jan 2025 it has been forked there.
+  - [Turbin
+    protocol](https://medium.com/solana-labs/turbine-solanas-block-propagation-protocol-solves-the-scalability-trilemma-2ddba46a51db) -
+    it seems very interesting to read. It goes down to the networking layer, and how packets are splitted.
+  - [Firedancer](https://medium.com/@ariannacr18/firedancer-for-dummies-e1dec0e62185)
 - [Nym/Sphinx](https://github.com/nymtech/sphinx/) - for packets
 - [Sonic/Fantom](https://github.com/0xsoniclabs/sonic/tree/main/gossip)
   - It seems that Fantom has been rebranded into Sonic.
@@ -131,3 +136,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
   - [Monero/p2p](https://github.com/monero-project/monero/blob/master/src/p2p)
   - [Monero/net](https://github.com/monero-project/monero/blob/master/src/net)
 - [Fogo](https://www.fogo.io/whitepaper.pdf)
+
